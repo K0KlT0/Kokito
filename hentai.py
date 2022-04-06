@@ -19,4 +19,4 @@ diccionario={
 }
 print(diccionario)
 
-print(type)
+print("Hello madafaka")
